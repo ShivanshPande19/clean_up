@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'CleanUp',
+      title: 'cleaningess',
       theme: ThemeData.dark()
           .copyWith(scaffoldBackgroundColor: mobileBackgroundColor),
       home: ResponsiveLayout(mobileScreenLayout: ,webScreenLayout: ,),
